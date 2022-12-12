@@ -20,12 +20,16 @@ def collect_data(pages_count):
 
 
         for item in items_cards:
-            name = item.find("strong", class_="product-name").text.strip()
-            price_old = item.find("span", class_="price").text.strip()
-            # price_new = item.find(id="product-price-339500").text.strip()
-            product_url = item.find("a", {"class": "product-item-photo"}).get("href")
+            # name = item.find("strong", class_="product-name").text.replace(' ', '')
+            price = item.find('span', {"class": "price"}).text.strip()
+            # price_old = item.find("span", class_="rrp-price").text.strip()
+            # product_url = item.find("a", {"class": "product-item-photo"}).get("href")
 
-            print(f"Article: {name} - Price: {price_old} - URL: {product_url}")
+            print(price)
+            # print(name)
+
+
+            # print(f"Article: {name} - Price: {price_old} - URL: {product_url}")
 
 
     return pages_count
