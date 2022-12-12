@@ -5,7 +5,7 @@ import re
 import time
 import csv
 from datetime import datetime
-
+import json
 
 def get_all_pages():
     headers = {
@@ -50,7 +50,21 @@ def get_all_pages():
 # теперь нужно собрать нужную информацию
 
 def collect_data():
-    for page in range(1, 2):
+    cur_date = datetime.now().strftime("%d_%m_%Y")             # сохраняем файл под текущей датой
+
+    # with open(f"data_{cur_date}.csv", "w") as file:   # Json файл нужно переписать в CSV
+    #     writer = csv.writer(file)
+    #
+    #     writer.writerow(
+    #         (
+    #             "Артикул",
+    #             "Ссылка",
+    #             "Цена"
+    #         )
+    #     )
+
+    data = []  # список для структуирования инфы
+    for page in range(1, 5):
         with open(f"data/page_{page}.html") as file:
             src = file.read()
 
@@ -59,14 +73,29 @@ def collect_data():
         # print(items_cards)  # анализируем код, нужно вернуть название и цену
 
         for item in items_cards:
-            name = item.find("a ", class_="product-item-link").text.strip()
-            price_old = item.find("span", class_="price").text.lstrip("Euro. ")
-            # price_new = item.find(id="product-price-339500").text.strip()
+            name = item.find("a", class_="product-item-link").text.strip()
+            price_old = item.find("span", class_="price").text.strip()
             product_url = item.find("a", {"class": "product-item-photo"}).get("href")
 
             # print(f"Article: {name} - Price: {price_old} - URL: {product_url}")
 
 
+            data.append(
+                {
+                    "product_article": name,
+                    "product_url": product_url,
+                    "product_price": price_old
+                }
+            )
+            print(data)
+
+            print(f"[INFO] Обработана страница {page}/5")
+
+        with open("data.json", "a") as file:               # открываем файл на запись json
+            json.dump(data, file, indent=4)         # первый параметр наш список, затем файл, отступ
+
+
+          # не получается записать
 def main():
     collect_data()
 
