@@ -1,0 +1,542 @@
+[
+    {
+        "book_title": "Немецко-русский русско-немецкий словарь с произношением",
+        "book_author": "Матвеев Сергей Александрович",
+        "book_publishing": "АСТ:\n            Новые популярные словари",
+        "book_new_price": 329,
+        "book_old_price": 422,
+        "book_sale": 22,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Латинско-русский русско-латинский словарь",
+        "book_author": "Левинский Константин Александрович",
+        "book_publishing": "АСТ:\n            Карманная библиотека словарей: лучшее (м)",
+        "book_new_price": 232,
+        "book_old_price": 298,
+        "book_sale": 22,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Dictionary of Symbols",
+        "book_author": "Gheerbrant Alain и др.",
+        "book_publishing": "Penguin",
+        "book_new_price": 2222,
+        "book_old_price": 3419,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Латинско-русский русско-латинский словарь",
+        "book_author": "Левинский Константин Александрович",
+        "book_publishing": "АСТ:\n            Карманная библиотека словарей: лучшее",
+        "book_new_price": 265,
+        "book_old_price": 340,
+        "book_sale": 22,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Большой орфографический словарь русского языка",
+        "book_author": "Алабугина Юлия Владимировна, Алексеев Филипп Сергеевич",
+        "book_publishing": "АСТ:\n            Большие академические словари",
+        "book_new_price": 714,
+        "book_old_price": 916,
+        "book_sale": 22,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Art and Artists",
+        "book_author": "Murray Peter, Murray Linda",
+        "book_publishing": "Penguin",
+        "book_new_price": 1708,
+        "book_old_price": 2847,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Critical Theory",
+        "book_author": "Macey David",
+        "book_publishing": "Penguin",
+        "book_new_price": 1252,
+        "book_old_price": 2086,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of International Relations",
+        "book_author": "Evans Graham, Newnham Richard",
+        "book_publishing": "Penguin",
+        "book_new_price": 1851,
+        "book_old_price": 2847,
+        "book_sale": 35,
+        "book_status": "Ограничено"
+    },
+    {
+        "book_title": "The Quickway Crossword Dictionary",
+        "book_author": "",
+        "book_publishing": "Penguin",
+        "book_new_price": 2097,
+        "book_old_price": 3226,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Philosophy",
+        "book_author": "",
+        "book_publishing": "Penguin",
+        "book_new_price": 1460,
+        "book_old_price": 2086,
+        "book_sale": 30,
+        "book_status": "Ограничено"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Mathematics",
+        "book_author": "Nelson David",
+        "book_publishing": "Penguin",
+        "book_new_price": 1480,
+        "book_old_price": 2467,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin French Phrasebook",
+        "book_author": "Norman Jill и др.",
+        "book_publishing": "Penguin",
+        "book_new_price": 988,
+        "book_old_price": 1520,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Economics",
+        "book_author": "Bannock Graham, Baxter Ronald Eric",
+        "book_publishing": "Penguin",
+        "book_new_price": 1594,
+        "book_old_price": 2277,
+        "book_sale": 30,
+        "book_status": "Ограничено"
+    },
+    {
+        "book_title": "Русско-английский, англо-русский словарь",
+        "book_author": "Бочарова Галина Валентиновна и др.",
+        "book_publishing": "Проспект:",
+        "book_new_price": 290,
+        "book_old_price": 414,
+        "book_sale": 30,
+        "book_status": "Ограничено"
+    },
+    {
+        "book_title": "Latin Dictionary and Grammar",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 1293,
+        "book_old_price": 1847,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "The Penguin Dictionary of Architecture & Landscape",
+        "book_author": "Honour Hugh и др.",
+        "book_publishing": "Penguin",
+        "book_new_price": 1993,
+        "book_old_price": 2847,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Gem French Verbs",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Phrasebook and Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Collins Gem Greek Phrasebook and Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Gem",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Collins Gem Japanese Phrasebook and Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Portuguese Gem Phrasebook and Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 497,
+        "book_old_price": 710,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Collins Gem Turkish Phrasebook and Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Gem Thesaurus",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 462,
+        "book_old_price": 710,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Gem Dictionary and Thesaurus",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 497,
+        "book_old_price": 710,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Pocket Dictionary and Thesaurus",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 995,
+        "book_old_price": 1421,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 831,
+        "book_old_price": 1278,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Spanish Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 426,
+        "book_old_price": 710,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Italian Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 596,
+        "book_old_price": 852,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "German Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 497,
+        "book_old_price": 710,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 462,
+        "book_old_price": 710,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Dictionary and Grammar. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 853,
+        "book_old_price": 1421,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Spanish Dictionary and Grammar. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 995,
+        "book_old_price": 1421,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Welsh Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 596,
+        "book_old_price": 852,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Portuguese Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 796,
+        "book_old_price": 1137,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Portuguese Gem Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 596,
+        "book_old_price": 852,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Latin Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 554,
+        "book_old_price": 852,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Dictionary and Grammar",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 1201,
+        "book_old_price": 1847,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Korean Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 796,
+        "book_old_price": 1137,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Turkish Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 796,
+        "book_old_price": 1137,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Collins Arabic Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 796,
+        "book_old_price": 1137,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Japanese Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 739,
+        "book_old_price": 1137,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 511,
+        "book_old_price": 852,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Spanish Dictionary. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 554,
+        "book_old_price": 852,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Collins Arabic Dictionary. Gem Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 554,
+        "book_old_price": 852,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Easy Learning",
+        "book_new_price": 995,
+        "book_old_price": 1421,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "German Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Easy Learning",
+        "book_new_price": 995,
+        "book_old_price": 1421,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Easy Learning Mandarin Chinese Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Easy Learning",
+        "book_new_price": 1093,
+        "book_old_price": 1562,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Spanish Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Easy Learning",
+        "book_new_price": 853,
+        "book_old_price": 1421,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Dictionary. Essential edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 1093,
+        "book_old_price": 1562,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 739,
+        "book_old_price": 1137,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Thesaurus. Essential Edition",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 937,
+        "book_old_price": 1562,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English Thesaurus",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 739,
+        "book_old_price": 1137,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "French Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 895,
+        "book_old_price": 1278,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "German Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 924,
+        "book_old_price": 1421,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Italian Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 995,
+        "book_old_price": 1421,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Spanish Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 895,
+        "book_old_price": 1278,
+        "book_sale": 30,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Welsh Pocket Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Dictionaries",
+        "book_new_price": 831,
+        "book_old_price": 1278,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "Primary Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins Primary Dictionaries",
+        "book_new_price": 937,
+        "book_old_price": 1562,
+        "book_sale": 40,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English School Dictionary",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins School Dictionaries",
+        "book_new_price": 1108,
+        "book_old_price": 1705,
+        "book_sale": 35,
+        "book_status": "На складе"
+    },
+    {
+        "book_title": "English School Thesaurus",
+        "book_author": "",
+        "book_publishing": "Collins:\n            Collins School Dictionaries",
+        "book_new_price": 682,
+        "book_old_price": 1137,
+        "book_sale": 40,
+        "book_status": "На складе"
+    }
+]
