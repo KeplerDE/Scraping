@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/ScrapVenv2" />
       <excludeFolder url="file://$MODULE_DIR$/ScrapVenv3" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (Scraping)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
